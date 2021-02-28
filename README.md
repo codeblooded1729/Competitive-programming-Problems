@@ -1,2 +1,2 @@
-# Competetitive programming Problems
+# Competitive programming Problems
  All the good problems i tried while preparing for ICPC
